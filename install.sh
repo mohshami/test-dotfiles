@@ -7,3 +7,5 @@ curl 'https://objects.githubusercontent.com/github-production-release-asset-2e65
 cd /opt
 
 tar xvf nvim-linux64.tar.gz
+
+ln -s /opt/nvim-linux64/bin/nvim /usr/local/bin/nvim
