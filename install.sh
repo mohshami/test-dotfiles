@@ -8,4 +8,4 @@ cd /opt
 
 tar xvf nvim-linux64.tar.gz
 
-ln -s /opt/nvim-linux64/bin/nvim /usr/local/bin/nvim
+sudo ln -s /opt/nvim-linux64/bin/nvim /usr/local/bin/nvim
